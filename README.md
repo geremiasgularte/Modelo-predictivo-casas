@@ -1,1 +1,2 @@
-Modelo-predictivo-casas
+# Modelo-predictivo-casas
+Se tiene un conjunto de datos que contienen información sobre diferentes casas como el codigo postal, las dimensiones de la casa, la ubicación en coordenadas y el año de construcción. En base a estos datos se crea un modelo de predicción donde el valor a predecir es el precio que podria llegar a tener una determinada casa. Todo este proceso teniendo en cuenta un análisis y limpieza de los datos, la prueba de distintos modelos y el chequeo de residuos generado.
